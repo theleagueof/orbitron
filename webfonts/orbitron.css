@@ -1,0 +1,45 @@
+/*
+  'Orbitron'
+  https://www.theleagueofmoveabletype.com/orbitron
+
+  Copyright (c) 2009, Matt McInerney <matt@pixelspread.com>,
+  with Reserved Font Name: "Orbitron".
+
+  This Font Software is licensed under the SIL Open Font License, Version 1.1.
+  http://scripts.sil.org/OFL
+*/
+@font-face {
+  font-family: 'Orbitron';
+  font-weight: 300; /* Light */
+  src: url('orbitron-light-webfont.eot?#iefix') format('embedded-opentype'),
+       url('orbitron-light-webfont.woff') format('woff'),
+       url('orbitron-light-webfont.ttf')  format('truetype'),
+       url('orbitron-light-webfont.svg#webfontZHiKantU') format('svg');
+}
+
+@font-face {
+  font-family: 'Orbitron';
+  font-weight: 500; /* Medium */
+  src: url('orbitron-medium-webfont.eot?#iefix') format('embedded-opentype'),
+       url('orbitron-medium-webfont.woff') format('woff'),
+       url('orbitron-medium-webfont.ttf')  format('truetype'),
+       url('orbitron-medium-webfont.svg#webfontD7xceb3L') format('svg');
+}
+
+@font-face {
+  font-family: 'Orbitron';
+  font-weight: 700; /* Bold */
+  src: url('orbitron-bold-webfont.eot?#iefix') format('embedded-opentype'),
+       url('orbitron-bold-webfont.woff') format('woff'),
+       url('orbitron-bold-webfont.ttf')  format('truetype'),
+       url('orbitron-bold-webfont.svg#webfontMOSYtX6m') format('svg');
+}
+
+@font-face {
+  font-family: 'Orbitron';
+  font-weight: 900; /* Black */
+  src: url('orbitron-black-webfont.eot?#iefix') format('embedded-opentype'),
+       url('orbitron-black-webfont.woff') format('woff'),
+       url('orbitron-black-webfont.ttf')  format('truetype'),
+       url('orbitron-black-webfont.svg#webfontqMYZ91Rj') format('svg');
+}
