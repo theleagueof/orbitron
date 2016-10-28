@@ -2,7 +2,7 @@
 
 Orbitron
 ========
-_by [Matt McInerney](http://pixelspread.com)_
+_by [Matt McInerney](http://matt.cc/)_
 
 Orbitron is a geometric sans-serif typeface intended for display purposes. It features four weights (light, medium, bold, and black), a stylistic alternative, small caps, and a ton of alternate glyphs. 
 
